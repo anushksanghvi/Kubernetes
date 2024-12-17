@@ -18,7 +18,8 @@ Kubernetes (often abbreviated as **K8s**) is an open-source container orchestrat
 
 ## Kubernetes Architecture
 
-!(./KuberneteArchitecture.jpg)
+![KuberneteArchitecture](https://github.com/user-attachments/assets/4a5f24ad-ee89-406d-8dae-6f03afebe215)
+
 
 Kubernetes architecture is composed of two main components: 
 
